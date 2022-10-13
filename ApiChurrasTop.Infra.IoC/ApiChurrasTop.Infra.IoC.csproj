@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\ApiChurrasTop.Domain\ApiChurrasTop.Domain.csproj" />
+    <ProjectReference Include="..\ApiChurrasTop.Application\ApiChurrasTop.Application.csproj" />
+    <ProjectReference Include="..\ApiChurrasTop.Infra.Data\ApiChurrasTop.Infra.Data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>

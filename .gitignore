@@ -1,0 +1,13 @@
+.vscode
+ApiChurrasTop.Test/obj
+ApiChurrasTop.Test/bin
+ApiChurrasTop.Api/obj
+ApiChurrasTop.Api/bin
+ApiChurrasTop.Application/obj
+ApiChurrasTop.Application/bin
+ApiChurrasTop.Domain/obj
+ApiChurrasTop.Domain/bin
+ApiChurrasTop.Infra.Data/obj
+ApiChurrasTop.Infra.Data/bin
+ApiChurrasTop.Infra.IoC/obj
+ApiChurrasTop.Infra.IoC/bin
